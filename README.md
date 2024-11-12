@@ -6,7 +6,7 @@ Political-adventures-in-not-mentioning-the-war-although-playing-ignorant-is-viol
 Welcome to the **Digital Transformation Decision Simulation Game**! This is an interactive JavaScript-based simulation where you take on the role of a decision-maker, managing the digital transformation of an organisation/country (interchangeable). You'll navigate various challenges, from selecting the right project management methodology to dealing with geopolitics and the infamous "cargo cult" mentality.
 
 In this game, you will:
-- Choose from a range of stakeholders (CEO, CTO, Consultant, Politician).
+- Choose from a range of stakeholders (P1, P2, P3, P4).
 - Decide which project management approach to follow: **Agile**, **Waterfall**, or **Agile-Agnostic**.
 - See how factors like experience, certification, and geopolitical risks affect the outcome.
 - Understand how superficial project management knowledge (Cargo Cult) can impact your project's success.
