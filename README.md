@@ -3,7 +3,7 @@ Political-adventures-in-not-mentioning-the-war-although-playing-ignorant-is-viol
 
 # 🎮 Digital Transformation Decision Simulation Game
 
-Welcome to the **Digital Transformation Decision Simulation Game**! This is an interactive JavaScript-based simulation where you take on the role of a decision-maker, managing the digital transformation of an organization. You'll navigate various challenges, from selecting the right project management methodology to dealing with geopolitics and the infamous "cargo cult" mentality.
+Welcome to the **Digital Transformation Decision Simulation Game**! This is an interactive JavaScript-based simulation where you take on the role of a decision-maker, managing the digital transformation of an organisation/country (interchangeable). You'll navigate various challenges, from selecting the right project management methodology to dealing with geopolitics and the infamous "cargo cult" mentality.
 
 In this game, you will:
 - Choose from a range of stakeholders (CEO, CTO, Consultant, Politician).
@@ -65,9 +65,9 @@ For a full walkthrough and explanation, check out the YouTube video! 🎥
 In this video, we explore:
 - How to pick the right stakeholder and methodology.
 - What factors (like geopolitics and the cargo cult) affect project outcomes.
-- How decisions are scored and how you can optimize your strategy for success.
+- How decisions are scored and how you can optimise your strategy for success.
 
-🔗 ** [Watch on YouTube] **(link-to-video) to see how digital transformation decisions play out in real-time and learn how to win this game of strategic decision-making!
+🔗 ** [Watch on YouTube] **(link-to-video) to see how digital transformation decisions play out in real-time and learn how to win this game of strategic decision-making! 😒
 
 ---
 
