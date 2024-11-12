@@ -16,10 +16,10 @@
 
     <h2>Select Stakeholder:</h2>
     <div>
-        <button onclick="chooseStakeholder('CEO', 'experienced', 'certified')">CEO (Experienced, Certified)</button>
-        <button onclick="chooseStakeholder('CTO', 'experienced', 'uncertified')">CTO (Experienced, Uncertified)</button>
-        <button onclick="chooseStakeholder('Consultant', 'trained', 'certified')">Consultant (Trained, Certified)</button>
-        <button onclick="chooseStakeholder('Politician', 'untrained', 'uncertified')">Politician (Untrained, Uncertified)</button>
+        <button onclick="chooseStakeholder('P1', 'experienced', 'certified')">P1 (Experienced, Certified)</button>
+        <button onclick="chooseStakeholder('P2', 'experienced', 'uncertified')">P2 (Experienced, Uncertified)</button>
+        <button onclick="chooseStakeholder('P3', 'trained', 'certified')">P3 (Trained, Certified)</button>
+        <button onclick="chooseStakeholder('P4', 'untrained', 'uncertified')">P4 (Untrained, Uncertified)</button>
     </div>
 
     <h2>Select Project Methodology:</h2>
