@@ -22,10 +22,10 @@ This simulation focuses on **decision-making** in the context of a digital trans
 ### Game Mechanics
 
 1. **Stakeholder Selection**:
-    - **CEO (Experienced, Certified)**: The seasoned leader with certification to back their skills.
-    - **CTO (Experienced, Uncertified)**: A technically sharp decision-maker but lacks formal certification.
-    - **Consultant (Trained, Certified)**: A professional expert with up-to-date credentials.
-    - **Politician (Untrained, Uncertified)**: Politically savvy, but lacking both experience and certifications.
+    - **P1 (Experienced, Certified)**: The seasoned leader with certification to back their skills.
+    - **P2 (Experienced, Uncertified)**: A technically sharp decision-maker but lacks formal certification.
+    - **P3 (Trained, Certified)**: A professional expert with up-to-date credentials.
+    - **P4 (Untrained, Uncertified)**: Politically savvy, but lacking both experience and certifications.
 
 2. **Project Methodology**:
     - **Agile**: Fast, iterative, and flexible, but does it always work?
@@ -42,7 +42,7 @@ This simulation focuses on **decision-making** in the context of a digital trans
 ## 🎮 How to Play
 
 1. **Choose a Stakeholder**:
-   Pick a role (CEO, CTO, Consultant, Politician) based on experience and certification levels. This will affect how the project unfolds!
+   Pick a role (P1, P2, P3, P4) based on experience and certification levels. This will affect how the project unfolds!
 
 2. **Select a Project Methodology**:
    Decide between **Agile**, **Waterfall**, or an **Agile-Agnostic** approach. Each methodology has a different success rate, depending on the context.
